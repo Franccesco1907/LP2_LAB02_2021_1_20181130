@@ -1,6 +1,6 @@
 /*
 	Nombre: Franccesco Jaimes Agreda
-	Fecha: 22-04-21
+	Fecha: 22-04-21 
 */
 package pe.edu.pucp.hungrysoft.main;
 
